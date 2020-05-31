@@ -1,0 +1,180 @@
+ /* 
+ Desciption: Fancy styling for Web Desgin page
+ Author: May Jeong
+ Email: 19727848@student.curtin.edu.au
+ Tags: Web Design, Website, Design of webpage
+ */
+
+body {
+    width: 700px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    font-family: helvetica, sans-serif;
+}
+
+header {
+    background-color: white;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    height: 40px;
+    line-height: 100px;
+}
+
+
+header p {
+    text-align: center;
+    margin-top: 35px;
+}
+
+nav {
+    background-color: rgb(121, 145, 212);
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: lightgray;
+    color: black;
+}
+
+.elementnav {
+    background-color: lightgray;
+    text-align: center;
+    border-radius: 0px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.elementnav a {
+    color: black;
+    line-height: 35px;
+}
+
+.elementnav a:hover {
+    color: white;
+}
+
+h3 {
+    text-align: left;
+    margin-left: 5%;
+    margin-bottom: 0%;
+}
+
+h4 {
+    text-align: left;
+    margin-left: 5%;
+    margin-bottom: 0%;
+    font-style: italic;
+}
+
+#color {
+    float:left;
+    width: 50%;
+    height: 370px;
+    margin-left: 3%;
+}
+
+#uxd {
+    float: right;
+    width: 47%;
+    height: 370px;
+}
+
+#hierarchy {
+    float: left;
+    width: 50%;
+    height: 300px;
+    margin-left: 3%;
+}
+
+#image {
+    float: right;
+    width: 47%;
+    height: 300px;
+}
+
+#responsive {
+    float:left;
+    width: 50%;
+    height: 250px;
+    margin-left: 3%;
+}
+
+#fast {
+    float: right;
+    width: 47%;
+    height: 250px;
+}
+
+#design {
+    height: 850px;
+}
+
+#home {
+    float: right;
+    width: 70%;
+}
+
+aside {
+    margin-top: 3px;
+    float: left;
+    width: 30%;
+    background-color: lightgray;
+}
+
+footer a {
+    color: black;
+    text-decoration: none;
+}
+
+p {
+    margin: 5%;
+    margin-top: 3%;
+    text-align: left;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+th, td {
+    padding: 5px;
+    text-align: left;    
+}
+
+#criteria {
+    height: 600px;
+}
+
+table {
+    margin-left: 23%;
+}
+
+#condition  {
+    text-align: left;
+}
+
+#arngren a, #yale a, #amazon a, #grammarly a {
+    text-decoration: none;
+}
+
+#arngren p, #yale p, #amazon p, #grammarly p{
+    text-align: center;
+}
